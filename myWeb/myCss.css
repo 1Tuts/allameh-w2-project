@@ -39,11 +39,26 @@ div.menu ul > li {
 	background-repeat:no-repeat;
 }
 li.home {
-	background-image:url(images/Generic.png);
+	background-image:url(images/HomeN.png);
 }
 li.children {
-	background-image:url(images/Children.png);
+	background-image:url(images/childrenN.png);
 }
 li.terms {
-	background-image:url(images/Terms.png);
+	background-image:url(images/termsN.png);
 }
+li.contactus{
+	background-image:url(images/contactus.png);
+	}
+li.score{
+	background-image:url(images/ScoreN.png);
+	}
+li.register{
+	background-image:url(images/ReagisterN.png);
+	}
+li.teachers{
+	background-image:url(images/teachersN.png);
+	}
+li.aboutus{
+	background-image:url(images/aboutusN.png);
+	}
