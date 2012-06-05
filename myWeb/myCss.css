@@ -26,6 +26,12 @@ div.header{
 	background-image:url(images/header.jpg);
 	width:	950px;
 	height:	134px;
+	border:solid #FFF 2px;
+	border-radius:5px 150px;
+	box-shadow:5px 10px 60px #666666;
 	
 	
+	}
+div.menu {
+	margin-top:20px;
 	}
