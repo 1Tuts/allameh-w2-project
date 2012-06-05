@@ -19,7 +19,7 @@
 
 div.content{
 	width:	950px;
-	
+	margin:0 auto;
 	
 	}
 div.header{
@@ -35,3 +35,20 @@ div.header{
 div.menu {
 	margin-top:20px;
 	}
+div.menu ul{
+	text-decoration:none;
+	}
+div.menu ul > li{
+	float:left;
+	list-style-type:none;
+	display:block;
+	width:64px;
+	height:64px;
+	}
+ li.home{
+	background:url(images/Generic.png) ;
+	}
+li.children{
+	background:url(images/Children.png) no-repeat ;
+	
+	}	
