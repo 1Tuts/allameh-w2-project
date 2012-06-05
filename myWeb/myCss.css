@@ -1,5 +1,4 @@
-.background > div{
-	
+.background > div {
 	position:	fixed;
 	background-position:	center top;
 	background-repeat:	no-repeat;
@@ -9,46 +8,42 @@
 	right:	0;
 	bottom:	0;
 	z-index:	-1;
-	
-	} 
-
+}
 .bgimg {
-	background-image:	url(images/Wood_Wallpaper_bg.jpg) ;
-	
-	}
-
-div.content{
+	background-image:	url(images/Wood_Wallpaper_bg.jpg);
+}
+div.content {
 	width:	950px;
 	margin:0 auto;
-	
-	}
-div.header{
+}
+div.header {
 	background-image:url(images/header.jpg);
 	width:	950px;
 	height:	134px;
 	border:solid #FFF 2px;
 	border-radius:5px 150px;
 	box-shadow:5px 10px 60px #666666;
-	
-	
-	}
+}
 div.menu {
 	margin-top:20px;
-	}
-div.menu ul{
+}
+div.menu ul {
 	text-decoration:none;
-	}
-div.menu ul > li{
+}
+div.menu ul > li {
 	float:left;
 	list-style-type:none;
 	display:block;
 	width:64px;
 	height:64px;
-	}
- li.home{
-	background:url(images/Generic.png) ;
-	}
-li.children{
-	background:url(images/Children.png) no-repeat ;
-	
-	}	
+	background-repeat:no-repeat;
+}
+li.home {
+	background-image:url(images/Generic.png);
+}
+li.children {
+	background-image:url(images/Children.png);
+}
+li.terms {
+	background-image:url(images/Terms.png);
+}
