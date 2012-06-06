@@ -29,6 +29,7 @@ div.menu {
 }
 div.menu ul {
 	text-decoration:none;
+	
 }
 div.menu ul > li {
 	float:left;
@@ -37,6 +38,8 @@ div.menu ul > li {
 	width:64px;
 	height:64px;
 	background-repeat:no-repeat;
+	padding-right:40px;
+	
 }
 li.home {
 	background-image:url(images/HomeN.png);
