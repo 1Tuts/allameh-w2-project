@@ -20,65 +20,71 @@ div.header {
 	background-image:url(images/header.jpg);
 	width:	950px;
 	height:	134px;
+	margin-top:20px;
 	border:solid #FFF 2px;
 	border-radius:5px 150px;
 	box-shadow:5px 10px 60px #666666;
 }
 div.menu {
-	margin-top:20px;
+	margin-top:30px;
 }
-div.menu ul {
-	text-decoration:none;
-	
+div.menu ul {	
 }
 div.menu ul > li {
 	float:left;
 	list-style-type:none;
-	display:block;
-	width:64px;
-	height:64px;
+	width:100px;
+	height:100px;
 	background-repeat:no-repeat;
-	padding-right:40px;
-	
+	padding-right:10px;
+	font-family:"Times New Roman", Times, serif;	
 }
-li.home {
-	background-image:url(images/HomeN.png);
+div.menu ul > li a{
+	text-decoration:none;
+	padding-left:15px;
+	color:#333;
+	}
+div.menu ul > li span{
+	 position:relative;
+	 top:-20px;
+	 left:27px;
+	}
+/*li.home a img{
+	background-image:url(images/Home.png);
 }
+
 li.children {
-	background-image:url(images/childrenN.png);
+	background-image:url(images/Children.png);
 }
+li.children a{
+	
+	}
 li.terms {
-	background-image:url(images/termsN.png);
+	background-image:url(images/Terms.png);
 }
 li.contactus{
 	background-image:url(images/contactus.png);
 	}
 li.score{
-	background-image:url(images/ScoreN.png);
+	background-image:url(images/Score.png);
 	}
 li.register{
-	background-image:url(images/ReagisterN.png);
+	background-image:url(images/Register.png);
 	}
 li.teachers{
-	background-image:url(images/teachersN.png);
+	background-image:url(images/teachers.png);
 	}
 li.aboutus{
-	background-image:url(images/aboutusN.png);
-	}
+	background-image:url(images/About-Us.png);
+	}*/
+	
+	
+
 div.contain-main{
 	margin-top:20px;
 	min-height:200px;
 	}
-/*contain-main >  div.tablo {
-	
-	margin-top:20px;
-	background:rgba(222,184,135 ,0.1);
-	width:950px;
-	height:150px;
-	border:solid #FFF 2px;
-	border-radius:5px 150px;
-	box-shadow:5px 10px 60px #333333;
-}*/
+
 div.tablo h1 {
 	border-radius:5px 150px;
 	box-shadow:5px 10px 60px #333333;
@@ -90,3 +96,23 @@ div.tablo h1 {
 	color:#FFF;
 	text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0, 0, 0, .1), 0 0 5px rgba(0, 0, 0, .1), 0 1px 3px rgba(0, 0, 0, .3), 0 3px 5px rgba(0, 0, 0, .2), 0 5px 10px rgba(0, 0, 0, .25), 0 10px 10px rgba(0, 0, 0, .2), 0 20px 20px rgba(0, 0, 0, .15);
 }
+
+/*-------------------------- Info Start-------------------------*/
+div.info{
+	
+	margin-top:30px;
+	padding-left:30px;
+	padding-right:5px;
+	font-family:"Times New Roman", Times, serif;
+	font-size:20px;
+	line-height:25px;
+	font-weight:100;
+	color:#840;
+	text-shadow:1px 1px 1px #A0522D;
+	
+	
+	
+	
+	}
+
+/*-------------------------- Info Finish-------------------------*/
