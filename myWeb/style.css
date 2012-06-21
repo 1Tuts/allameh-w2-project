@@ -1,0 +1,173 @@
+.background > div {
+	position:	fixed;
+	background-position:	center top;
+	background-repeat:	no-repeat;
+	background-size:	cover;
+	top:	0;
+	left:	0;
+	right:	0;
+	bottom:	0;
+	z-index:	-1;
+}
+.bgimg {
+	background-image:	url(images/Wood_Wallpaper_bg.jpg);
+}
+div.content {
+	width:	950px;
+	margin:0 auto;
+}
+div.header {
+	background-image:url(images/header2.png);
+	width:	950px;
+	height:	134px;
+	margin-top:20px;
+	border:solid #FFF 2px;
+	border-radius:5px 150px;
+	box-shadow:5px 10px 60px #666666;
+}
+div.menu {
+	margin-top:30px;
+}
+div.menu ul {	
+}
+div.menu ul > li {
+	float:left;
+	list-style-type:none;
+	width:100px;
+	height:100px;
+	background-repeat:no-repeat;
+	padding-right:10px;
+	font-family:"Times New Roman", Times, serif;	
+}
+div.menu ul > li a{
+	text-decoration:none;
+	padding-left:15px;
+	color:#FFF;
+	}
+div.menu ul > li span{
+	/* position:relative;
+	 top:-75px;
+	 left:27px;*/
+	 font-style:italic;
+	 font-weight:bold;
+	}
+
+li.home img.over{
+	display:none;
+	}
+li.home:hover img.over{
+	display:inline;
+	}	
+li.home:hover img.out{
+	display:none;
+	}
+/*--------------------------------------*/
+li.children img.over{
+	display:none;
+	}
+li.children:hover img.over{
+	display:inline;
+	}	
+li.children:hover img.out{
+	display:none;
+}	
+/*--------------------------------------*/
+li.terms img.over{
+	display:none;
+	}
+li.terms:hover img.over{
+	display:inline;
+	}	
+li.terms:hover img.out{
+	display:none;
+}		
+/*--------------------------------------*/	
+li.contactus img.over{
+	display:none;
+	}
+li.contactus:hover img.over{
+	display:inline;
+	}	
+li.contactus:hover img.out{
+	display:none;
+}
+/*--------------------------------------*/
+	li.score img.over{
+	display:none;
+	}
+li.score:hover img.over{
+	display:inline;
+	}	
+li.score:hover img.out{
+	display:none;
+}
+/*--------------------------------------*/
+li.register img.over{
+	display:none;
+	}
+li.register:hover img.over{
+	display:inline;
+	}	
+li.register:hover img.out{
+	display:none;
+}
+
+/*--------------------------------------*/
+li.teachers img.over{
+	display:none;
+	}
+li.teachers:hover img.over{
+	display:inline;
+	}	
+li.teachers:hover img.out{
+	display:none;
+}	
+/*--------------------------------------*/
+li.aboutus img.over{
+	display:none;
+	}
+li.aboutus:hover img.over{
+	display:inline;
+	}	
+li.aboutus:hover img.out{
+	display:none;
+}	
+/*--------------------------------------*/	
+div.contain-main{
+	margin-top:20px;
+	min-height:200px;
+	}
+
+
+div.tablo h1 {
+	border-radius:5px 150px;
+	box-shadow:5px 10px 60px #333333;
+	padding-left:90px;
+	padding-top:40px;
+	padding-bottom:40px;
+	font-family: Rockwell, Georgia, "Times New Roman", Times, serif;
+	font-size:70px;
+	color:#FFF;
+	text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0, 0, 0, .1), 0 0 5px rgba(0, 0, 0, .1), 0 1px 3px rgba(0, 0, 0, .3), 0 3px 5px rgba(0, 0, 0, .2), 0 5px 10px rgba(0, 0, 0, .25), 0 10px 10px rgba(0, 0, 0, .2), 0 20px 20px rgba(0, 0, 0, .15);
+}
+
+/*-------------------------- Info Start-------------------------*/
+div.info{
+	
+	margin-top:30px;
+	padding-left:30px;
+	padding-right:5px;
+	font-family:"Times New Roman", Times, serif;
+	font-size:20px;
+	line-height:25px;
+	font-weight:100;
+	color:#840;
+	text-shadow:1px 1px 1px #A0522D;
+	font-style:italic;
+	
+	
+	
+	
+	}
+
+/*-------------------------- Info Finish-------------------------*/
