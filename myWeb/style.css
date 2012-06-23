@@ -28,7 +28,7 @@ div.header {
 div.menu {
 	margin-top:30px;
 }
-div.menu ul {	
+div.menu ul {
 }
 div.menu ul > li {
 	float:left;
@@ -37,108 +37,104 @@ div.menu ul > li {
 	height:100px;
 	background-repeat:no-repeat;
 	padding-right:10px;
-	font-family:"Times New Roman", Times, serif;	
+	font-family:"Times New Roman", Times, serif;
 }
-div.menu ul > li a{
+div.menu ul > li a {
 	text-decoration:none;
 	padding-left:15px;
 	color:#FFF;
-	}
-div.menu ul > li span{
+}
+div.menu ul > li span {
 	/* position:relative;
 	 top:-75px;
 	 left:27px;*/
 	 font-style:italic;
-	 font-weight:bold;
-	}
-
-li.home img.over{
+	font-weight:bold;
+}
+li.home img.over {
 	display:none;
-	}
-li.home:hover img.over{
+}
+li.home:hover img.over {
 	display:inline;
-	}	
-li.home:hover img.out{
+}
+li.home:hover img.out {
 	display:none;
-	}
+}
 /*--------------------------------------*/
-li.children img.over{
+li.children img.over {
 	display:none;
-	}
-li.children:hover img.over{
+}
+li.children:hover img.over {
 	display:inline;
-	}	
-li.children:hover img.out{
+}
+li.children:hover img.out {
 	display:none;
-}	
+}
 /*--------------------------------------*/
-li.terms img.over{
+li.terms img.over {
 	display:none;
-	}
-li.terms:hover img.over{
+}
+li.terms:hover img.over {
 	display:inline;
-	}	
-li.terms:hover img.out{
+}
+li.terms:hover img.out {
 	display:none;
-}		
+}
 /*--------------------------------------*/	
-li.contactus img.over{
+li.contactus img.over {
 	display:none;
-	}
-li.contactus:hover img.over{
+}
+li.contactus:hover img.over {
 	display:inline;
-	}	
-li.contactus:hover img.out{
+}
+li.contactus:hover img.out {
 	display:none;
 }
 /*--------------------------------------*/
-	li.score img.over{
+	li.score img.over {
 	display:none;
-	}
-li.score:hover img.over{
+}
+li.score:hover img.over {
 	display:inline;
-	}	
-li.score:hover img.out{
+}
+li.score:hover img.out {
 	display:none;
 }
 /*--------------------------------------*/
-li.register img.over{
-	display:none;
-	}
-li.register:hover img.over{
-	display:inline;
-	}	
-li.register:hover img.out{
+li.register img.over {
 	display:none;
 }
-
-/*--------------------------------------*/
-li.teachers img.over{
-	display:none;
-	}
-li.teachers:hover img.over{
+li.register:hover img.over {
 	display:inline;
-	}	
-li.teachers:hover img.out{
+}
+li.register:hover img.out {
 	display:none;
-}	
+}
 /*--------------------------------------*/
-li.aboutus img.over{
+li.teachers img.over {
 	display:none;
-	}
-li.aboutus:hover img.over{
+}
+li.teachers:hover img.over {
 	display:inline;
-	}	
-li.aboutus:hover img.out{
+}
+li.teachers:hover img.out {
 	display:none;
-}	
+}
+/*--------------------------------------*/
+li.aboutus img.over {
+	display:none;
+}
+li.aboutus:hover img.over {
+	display:inline;
+}
+li.aboutus:hover img.out {
+	display:none;
+}
 /*--------------------------------------*/	
-div.contain-main{
+div.contain-main {
 	margin-top:20px;
 	min-height:200px;
-	}
-
-
+}
 div.tablo h1 {
 	border-radius:5px 150px;
 	box-shadow:5px 10px 60px #333333;
@@ -150,34 +146,29 @@ div.tablo h1 {
 	color:#FFF;
 	text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0, 0, 0, .1), 0 0 5px rgba(0, 0, 0, .1), 0 1px 3px rgba(0, 0, 0, .3), 0 3px 5px rgba(0, 0, 0, .2), 0 5px 10px rgba(0, 0, 0, .25), 0 10px 10px rgba(0, 0, 0, .2), 0 20px 20px rgba(0, 0, 0, .15);
 }
-
-.wpcf7-form p{
-font-family:"Times New Roman", Times, serif;
-font-size:18px;
-text-align:left;
-color:#FFFFFF;
-
+/*-------------------------- Contact Us Form-------------------------*/
+.wpcf7-form p {
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+	text-align:left;
+	color:#FFFFFF;
 }
-.wpcf7-form p input, .wpcf7-form p textarea{
-
-font-size:larger;
-background-color:#FFF;
-color:#000055;
-border-left-color:#4283B9;
-border-top-color :#4283B9;
-border-bottom-color:#bbbbff;
-border-right-color:#bbbbff;
-padding:2px;
+.wpcf7-form p input, .wpcf7-form p textarea {
+	font-size:larger;
+	background-color:#FFF;
+	color:#000055;
+	border-left-color:#4283B9;
+	border-top-color :#4283B9;
+	border-bottom-color:#bbbbff;
+	border-right-color:#bbbbff;
+	padding:2px;
 }
-
-.form7submit  {
-display: block;
-width: 20px;
+.form7submit {
+	display: block;
+	width: 20px;
 }
-
 /*-------------------------- Info Start-------------------------*/
-div.info{
-	
+div.info {
 	margin-top:30px;
 	padding-left:30px;
 	padding-right:5px;
@@ -188,11 +179,6 @@ div.info{
 	color:#840;
 	text-shadow:1px 1px 1px #A0522D;
 	font-style:italic;
-	
-	
-	
-	
-	}
+}
 
 /*-------------------------- Info Finish-------------------------*/
-

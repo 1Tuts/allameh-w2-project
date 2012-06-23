@@ -1,5 +1,5 @@
 
-<div class="tablo" style="border:#FF0 solid 2px">
+<div class="tablo" >
   <h1 class="">Allameh English Institute</h1>
 </div>
 
@@ -9,7 +9,7 @@
 		while(have_posts()){
 			the_post();
    ?>
-<div class="info" style="border:#F0F solid 2px">
+<div class="info">
 <h1><?php the_title();?></h1>
 	<p><?php the_content();?></p>
  </div>	

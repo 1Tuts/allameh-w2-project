@@ -1,7 +1,7 @@
 <?php get_header();
 	get_template_part('menu','header');
 ?>
-    <div class="contain-main mla mra" style="border:#000 solid 2px">
+    <div class="contain-main mla mra" >
     
   	<?php get_template_part('content','page')?>
      	<?php
