@@ -10,8 +10,9 @@
 		
 		
 		 ?>
+     
          <?php /*?><?php wp_nav_menu( array( 'sort_column' => 'menu_order', 'container_class' => 'menu-header' ) ); ?><?php */?>
-         
+        <!-- 
         <li class="home"><a href="#"><span>Home</span></a></li>
         <li class="children"><a href="#"><span>Children</span></a></li>
         <li class="terms"><a href="#"><span>Terms</span></a></li>
@@ -19,7 +20,7 @@
         <li class="score"><a href="#"><span>Score</span></a></li>
         <li class="register"><a href="#"><span>Register</span></a></li>
         <li class="teachers"><a href="#"><span>Teachers</span></a></li>
-        <li class="aboutus"><a href="#"><span>AboutUs</span></a></li>
+        <li class="aboutus"><a href="#"><span>AboutUs</span></a></li>-->
          
         <!--<li class="home"><a href="#"><img class="out" src="images/Home.png"/><img class="over" src="images/Home-hover.png"><span>Home</span></a></li>
         <li class="children"><a href="#"><img class="out" src="images/Children.png"/><img class="over" src="images/Children-hover.png"/><span>Children</span></a></li>

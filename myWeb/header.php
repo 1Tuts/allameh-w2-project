@@ -6,7 +6,6 @@
 <link type="text/css" rel="stylesheet" href="<?php bloginfo('template_url')?>/reset.css"/>
 <link type="text/css" rel="stylesheet" href="<?php bloginfo('template_url')?>/1styles.css"/>
 <link type="text/css" rel="stylesheet"  href="<?php bloginfo('template_url')?>/style.css"/>
-
 </head>
 
 <body>
